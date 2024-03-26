@@ -1,4 +1,4 @@
-module sso_protos
+module github.com/GermanLepin/sso_protos
 
 go 1.22.0
 
